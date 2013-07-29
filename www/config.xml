@@ -93,7 +93,6 @@
     <access origin="http://www.nensdelvendrell.cat/app/ranking-4.php"/>
     <access origin="https://twitter.com" subdomains="true"/>
     <access origin="google.com" subdomains="true"/>
-    <access origin="https://maps.google.es/maps?q=41.216879,1.534063&amp;num=1&amp;ie=UTF8&amp;t=m&amp;ll=41.216693,1.534052&amp;spn=0.002421,0.003219&amp;z=17&amp;output=embed"/>
     <!--
         <access origin="http://phonegap.com" />                    - allow any secure requests to http://phonegap.com/
         <access origin="http://phonegap.com" subdomains="true" />  - same as above, but including subdomains, such as http://build.phonegap.com/
