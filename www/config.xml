@@ -89,7 +89,7 @@
         Otherwise, you can specify specific domains:
     -->
     <access origin="http://127.0.0.1*"/> <!-- allow local pages -->
-    <access origin="http://*.*.*.*"/>                                         
+    <access origin="*"/>                                         
     <access origin="nensdelvendrell.cat"/>
     <access origin="http://www.nensdelvendrell.cat/app/ranking-4.php"/>
     <access origin="https://maps.google.es" subdomains="true"/>
