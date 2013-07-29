@@ -10,7 +10,7 @@
 window.$ = jQuery;
 $(document).ready(function() {
 	selectnav('tiny', {
-		label: '--- Navigation --- ',
+		label: '--- Menu --- ',
 		indent: '-'
 	});
 });
